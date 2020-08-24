@@ -7,7 +7,7 @@
 </center>
 </td>
 </tr>
-</tbody></table><br>
+</tbody></table>
 <table width="100%"><tbody>
 <tr> 
 <td class="one-column" style="border-top: 1px #cccccc solid">

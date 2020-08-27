@@ -1,4 +1,4 @@
-# infobis
+# Infobis
 # MakeOver Monday
 
 <table width="100%"><tbody>

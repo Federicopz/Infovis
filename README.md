@@ -33,7 +33,7 @@
 <table width="100%"><tbody>
 <tr> 
 <td class="one-column" style="border-top: 1px #cccccc solid">
-  <a style="background-color: rgb(217, 14, 34); border-radius: 5px; text-align: center; margin-top: 0px; margin-bottom: 5px; width: 65%; color:#FFFFFF;text-decoration:none;display:inline-block;padding-top:10px;padding-bottom:10px; font-size: 19px;display: block;" href="https://federicopz.github.io/infovis/tp-final.html"><strong class="">Datos personales</strong></a>
+  <a style="background-color: rgb(217, 14, 34); border-radius: 5px; text-align: center; margin-top: 0px; margin-bottom: 5px; width: 65%; color:#FFFFFF;text-decoration:none;display:inline-block;padding-top:10px;padding-bottom:10px; font-size: 19px;display: block;" href="https://federicopz.github.io/infovis/tp-final.html"><strong class="">Salidas a correr</strong></a>
 </center>
 </td>
 </tr>
